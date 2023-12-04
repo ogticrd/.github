@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="#🏛️-arquitectura-dígital">
+    🏛️ Arquitectura Dígital
+  </a>
+  •
   <a href="#🎭-cuenta-única-ciudadana">
     🎭 Cuenta Única Ciudadana
   </a>
@@ -41,6 +45,16 @@
 # Portafolio
 
 > Lista organizada de los increíbles proyectos de República Dominicana y sus instituciones gubernamentales.
+
+## 🏛️ Arquitectura Dígital
+
+_Conoce las documentación de las soluciones principales sostenidas por OGTIC_
+
+- [arquitectura-digital](https://github.com/ogticrd/arquitectura-digital)
+  <img align="right" src="https://img.shields.io/github/stars/ogticrd/arquitectura-digital?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/ogticrd/arquitectura-digital" alt="GitHub issues">\
+  Guía y definición de estándares de tecnologías implementadas en las instituciones gubernamentales.
+
 
 ## 🎭 Cuenta Única Ciudadana
 
