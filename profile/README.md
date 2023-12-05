@@ -98,14 +98,14 @@ _Proyectos open source del estado dominicao. ¿Te animas a colaborar?._
   Cabecera oficial de sitios gubernamentales.
 
 - [territorial-division-api](https://github.com/ogticrd/territorial-division-api)
-<img align="right" src="https://img.shields.io/github/stars/ogticrd/territorial-division-api?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-<img align="right" src="https://img.shields.io/github/issues/ogticrd/territorial-division-api" alt="GitHub issues">\
-Wrapper de la división territorial definida por la Oficina Nacional de Estadística (ONE).
+  <img align="right" src="https://img.shields.io/github/stars/ogticrd/territorial-division-api?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/ogticrd/territorial-division-api" alt="GitHub issues">\
+  Wrapper de la división territorial definida por la Oficina Nacional de Estadística (ONE).
 
 - [do-fuels-api](https://github.com/ogticrd/do-fuels-api)
-<img align="right" src="https://img.shields.io/github/stars/ogticrd/do-fuels-api?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-<img align="right" src="https://img.shields.io/github/issues/ogticrd/do-fuels-api" alt="GitHub issues">\
-Wrapper del RSS de los precios de combustibles dominicanos del Ministerio de Industria, Comercio y Mypimes (MICM).
+  <img align="right" src="https://img.shields.io/github/stars/ogticrd/do-fuels-api?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/ogticrd/do-fuels-api" alt="GitHub issues">
+  Wrapper del RSS de los precios de combustibles dominicanos del Ministerio de Industria, Comercio y Mypimes (MICM).
 
 
 ## 🔗 Documentación
