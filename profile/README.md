@@ -1,6 +1,5 @@
 <p align="center">
   <br>
-  <!-- <img width="500" src="./assets/imgs/logo.png" alt=""> -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/imgs/logo-white.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/imgs/logo.png">
