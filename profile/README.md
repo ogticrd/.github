@@ -9,29 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="#🏛️-arquitectura-dígital">
-    🏛️ Arquitectura Dígital
-  </a>
-  •
-  <a href="#🎭-cuenta-única-ciudadana">
-    🎭 Cuenta Única Ciudadana
-  </a>
-  •
-  <a href="#📐-diseño">
-    📐 Diseño
-  </a>
-  •
-  <a href="#🔗-sitios-web">
-    🔗 Sitios web
-  </a>
-  •
-  <a href="#💻-código-público">
-    💻 Código público
-  </a>
-  •
-  <a href="#📜-documentación">
-    📜 Documentación
-  </a>
+  <a href="#arquitectura-dígital">🏛️ Arquitectura Dígital</a>
+  • <a href="#cuenta-única-ciudadana">🎭 Cuenta Única Ciudadana</a>
+  • <a href="#diseño">📐 Diseño</a>
+  • <a href="#sitios-web">🔗 Sitios web</a>
+  • <a href="#código-público">💻 Código público</a>
+  • <a href="#documentación">📜 Documentación</a>
 </p>
 
 <p align="center">
@@ -40,8 +23,7 @@
   </a>
   •
   <a href="https://como-inicio.ogtic.gob.do"
-     title="Descubra cómo contribuir a mejorar los servicios públicos digitales del país"
-  >
+     title="Descubra cómo contribuir a mejorar los servicios públicos digitales del país" >
     <strong>¿Cómo incio?</strong>
   </a>
 </p>
@@ -50,7 +32,7 @@
 
 > Lista organizada de los increíbles proyectos de República Dominicana y sus instituciones gubernamentales.
 
-## 🏛️ Arquitectura Dígital
+## Arquitectura Dígital
 
 _Conoce las documentación de las soluciones principales sostenidas por OGTIC_
 
@@ -59,8 +41,7 @@ _Conoce las documentación de las soluciones principales sostenidas por OGTIC_
   <img align="right" src="https://img.shields.io/github/issues/ogticrd/arquitectura-digital" alt="GitHub issues">\
   Guía y definición de estándares de tecnologías implementadas en las instituciones gubernamentales.
 
-
-## 🎭 Cuenta Única Ciudadana
+## Cuenta Única Ciudadana
 
 _Sistema público de identidad digital, permite el acceso a los servicios de la administración pública con una única identidad digital desde ordenadores, tablets y smartphones._
 
@@ -74,7 +55,7 @@ _Sistema público de identidad digital, permite el acceso a los servicios de la 
   <img align="right" src="https://img.shields.io/github/issues/ogticrd/cuenta-unica-landing" alt="GitHub issues">\
   Portal informativo del registro de cuenta única ciudadana.
 
-## 📐 Diseño
+## Diseño
 
 _Sistema de diseño del estado dominicano._
 
@@ -83,7 +64,7 @@ _Sistema de diseño del estado dominicano._
   <img align="right" src="https://img.shields.io/github/issues/ogticrd/sdd-kit" alt="GitHub issues">\
   Una poderosa librería de React diseñada para simplificar y mejorar el desarrollo de aplicaciones web modernas. Ofreciendo una amplia gama de componentes, esta librería te ayuda a acelerar tu proceso de desarrollo y crear interfaces de usuario atractivas y funcionales de manera eficiente.
 
-## 🔗 Sitios web
+## Sitios web
 
 _Sitios web de servcicios gubernamentales del estado dominicano._
 
@@ -92,7 +73,7 @@ _Sitios web de servcicios gubernamentales del estado dominicano._
   <img align="right" src="https://img.shields.io/github/issues/ogticrd/developer-portal-frontend" alt="GitHub issues">\
   Portal de administración de APIs públicas.
 
-## 💻 Código público
+## Código público
 
 _Proyectos open source del estado dominicao. ¿Te animas a colaborar?._
 
@@ -111,8 +92,7 @@ _Proyectos open source del estado dominicao. ¿Te animas a colaborar?._
   <img align="right" src="https://img.shields.io/github/issues/ogticrd/do-fuels-api" alt="GitHub issues">
   Wrapper del RSS de los precios de combustibles dominicanos del Ministerio de Industria, Comercio y Mypimes (MICM).
 
-
-## 🔗 Documentación
+## Documentación
 
 _Charlas, documentaciones oficiales y más sobre el día a día en OGTIC._
 
