@@ -1,9 +1,9 @@
 <p align="center">
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/imgs/logo-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/imgs/logo.png">
-    <img width="500" alt="ogtic's logo" src="./assets/imgs/logo.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogticrd/.github/main/assets/imgs/logo-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogticrd/.github/main/assets/imgs/logo.png">
+    <img width="500" alt="ogtic's logo" src="https://raw.githubusercontent.com/ogticrd/.github/main/assets/imgs/logo.png">
   </picture>
   <br>
 </p>
